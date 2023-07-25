@@ -35,7 +35,7 @@ void bubble_sort(int *array, size_t size)
 /**
  * swap - Swap two integers in an array.
  * @a: 1st int to be swapped
- * @b: 2st int to be swapped
+ * @b: 2nd int to be swapped
 **/
 void swap(int *a, int *b)
 {
